@@ -31,13 +31,15 @@
 }
 
 .stateCircle {
-  fill: #89bdd3;
-  stroke: #e3e3e3;
+  fill: #89d38d;
+  stroke: #000000;
 }
 
 .chart {
   display: block;
   margin: 0;
+  padding: 10px;
+  /* background-color:rgb(153, 183, 197); */
 }
 
 .d3-tip {
